@@ -18,9 +18,8 @@
 7. Neue Überweisung auf der Überweisungsübersicht ermöglichen (Felder: to, amount)
 
 ## Externe Überweisungen
-1. Endpunkt bereitstellen um externe Überweisungen zu empfangen: POST https://meinebank.web.app/new {from: "abc", to: "abc", amount: 0}
-2. 1. from und to können mit "username@meinebank.web.app" qualifiziert werden
-3. Externe Überweisungen ermöglichen
+1. Endpunkt bereitstellen um externe Überweisungen zu empfangen: POST https://meinebank.web.app/new {from: "abc@bank.web.app", to: "efg@meinebank.web.app", amount: 0}
+2. Externe Überweisungen ermöglichen
 
 
 ## Erweiterungen
