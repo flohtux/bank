@@ -1,5 +1,9 @@
 # bank
 
+## Voraussetzungen
+1. NodeJS-Installation bzw. GitPod
+2. console.firebase.google.com-Account
+
 ## Bankinterne Überweisungen
 1. GUI: einfachen "Login" ermöglichen - z.B. Hauptseite (/) und Überweisungsübersicht (/view)
     1. Auf der Hauptseite soll ein Eingabefeld für den Benutzernamen sein und ein Login-Button
