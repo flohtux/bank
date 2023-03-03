@@ -2,7 +2,7 @@
 
 ## Voraussetzungen
 1. NodeJS-Installation bzw. GitPod
-2. console.firebase.google.com-Account
+2. console.firebase.google.com-Account (Google-Account)
 
 ## Bankinterne Überweisungen
 1. GUI: einfachen "Login" ermöglichen - z.B. Hauptseite (/) und Überweisungsübersicht (/view)
