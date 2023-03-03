@@ -7,7 +7,7 @@
 ## Bankinterne Überweisungen
 1. GUI: einfachen "Login" ermöglichen - z.B. Hauptseite (/) und Überweisungsübersicht (/view)
     1. Auf der Hauptseite soll ein Eingabefeld für den Benutzernamen sein und ein Login-Button
-    2. 1. Nach dem "Login" wird man auf die Überweisungsübersicht für den Benutzer geleitet
+    2. Nach dem "Login" wird man auf die Überweisungsübersicht für den Benutzer geleitet
     3. npx create-react-app
     4. react-router (?)
 2. Firebase-Projekt anlegen und den React-Build-Output (npm run build) nach Firebase Hosting deployen
