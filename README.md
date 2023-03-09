@@ -27,3 +27,4 @@
 2. Hübsch machen z.B. mit Material-ui
 3. Währung
 4. Geld anfordern
+5. Live-Umsatz-Anzeige
